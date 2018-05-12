@@ -1,0 +1,27 @@
+_repo: The-Boy-Pilot-of-the-Lakes--Or-Nat-Morton-s-Perils_33282
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33282-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+description: ''
+gutenberg_issued: '2010-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Lakes (North America) -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Pilots and pilotage -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+title: The Boy Pilot of the Lakes; Or, Nat Morton's Perils
+url: http://www.gutenberg.org/ebooks/33282
